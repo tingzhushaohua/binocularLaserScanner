@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="LaserScanner"/>
+  <qresource prefix="新前缀">
+    <file>Resources/FILE.ico</file>
+    <file>Resources/Start.png</file>
+  </qresource>
+</RCC>
