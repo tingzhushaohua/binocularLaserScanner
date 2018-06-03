@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/SystemCalibration">
+        <file>testPic/1.jpg</file>
+        <file>testPic/sysicon.jpg</file>
+    </qresource>
+</RCC>
